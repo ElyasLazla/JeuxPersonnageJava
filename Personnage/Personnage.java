@@ -1,7 +1,7 @@
 package Personnage;
 public class Personnage {
 	// Le constructeur
-        public Personnage(String name, int life, int endurance){
+    public Personnage(String name, int life, int endurance){
 		this.nom = name;
 		this.vie = life;
 		this.endurances = endurance;
