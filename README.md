@@ -3,5 +3,5 @@
 📖Grace à une histoir qui parle d'un aventurier qui ce balade dans une forêt et qui ce retrouve nez à nez à un goblin.  
 # Contient
 👉Ce repositorie contint les fichiers suivant:  
-   -jeuPersonnage.java (Fichier principale)  
-   -Personnage.java (classe)  
+   - jeuPersonnage.java (Fichier principale)  
+   - Personnage.java (classe)  
